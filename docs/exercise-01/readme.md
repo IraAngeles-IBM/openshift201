@@ -184,7 +184,7 @@ Now you'll create the Node.js app that will populate your Cloudant DB with patie
 
 ## Configure Front-End Patient Health App to use Cloudant Database Backend
 
-The `patient-ui` application has a configuration option for the backend database. To start using the database you configured above, follow the steps below to configure it.
+The `patient-ui` application has a configuration option for the backend database. To start using the database you configured above, follow the steps below to configure it.  If you don't have the `patient-ui` deployed, please go to [Lab 1 Deploy a Node application with Source-to-Image](https://ibm.github.io/openshift101/exercise-01/) of [OpenShift 101 Workshop](https://ibm.github.io/openshift101/)
 
 1. Access your **patient-ui** application again and click **Settings**.
 
